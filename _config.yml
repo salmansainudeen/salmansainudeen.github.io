@@ -1,3 +1,26 @@
 title: Salman Sainudeen
-description: Penetration testing & SOC — building things, breaking them, writing it up.
+tagline: SOC Analyst & Penetration Tester
+description: >-
+  Salman Sainudeen — junior SOC analyst and penetration tester from Kerala, India.
+  Home SOC lab with Wazuh, Active Directory attack and defence lab, PortSwigger web security labs and write-ups.
+url: https://salmansainudeen.github.io
+baseurl: ""
+lang: en
 theme: jekyll-theme-minimal
+
+author:
+  name: Salman Sainudeen
+  url: https://salmansainudeen.github.io
+
+social:
+  name: Salman Sainudeen
+  links:
+    - https://www.linkedin.com/in/salmansainudeen
+    - https://github.com/salmansainudeen
+
+# Paste the code from Google Search Console here (HTML tag method), then push.
+# google_site_verification: ""
+
+plugins:
+  - jekyll-seo-tag
+  - jekyll-sitemap

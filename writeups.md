@@ -1,6 +1,7 @@
 ---
 layout: default
-title: Write-ups
+title: Security Write-ups — Salman Sainudeen
+description: CTF, lab and web security write-ups by Salman Sainudeen — what I tried, what worked, why, and how to fix it.
 ---
 
 # Write-ups

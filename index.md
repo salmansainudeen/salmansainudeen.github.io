@@ -1,11 +1,14 @@
 ---
 layout: default
-title: Salman Sainudeen
+title: Salman Sainudeen — SOC Analyst & Penetration Tester
+description: >-
+  Junior SOC analyst and penetration tester. Wazuh home SOC lab, Active Directory attack and defence lab,
+  PortSwigger web security labs. Open to SOC and VAPT roles in India, the Gulf or remote.
 ---
 
 # Salman Sainudeen
 
-**Penetration Testing & SOC** · Kerala, India · open to junior SOC, VAPT and pentest roles (remote or Gulf)
+**Penetration Testing & SOC** · Kerala, India · open to junior SOC, VAPT and pentest roles (India, Gulf or remote)
 
 I'm a cybersecurity graduate working towards my first security role. I finished an eight-month **Advanced Penetration Testing diploma at eHackify** (web, network, API and mobile VAPT, Active Directory attack chains, SOC fundamentals). Most of what I know came from building labs and breaking them — and writing down what went wrong.
 
