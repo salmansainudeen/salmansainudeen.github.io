@@ -8,7 +8,7 @@ description: >-
 
 # Salman Sainudeen
 
-**Penetration Testing & SOC** · Kerala, India · open to junior SOC, VAPT and pentest roles (India, Gulf or remote)
+**Penetration Testing & SOC** · Kerala, India — currently in Al‑Khobar, Saudi Arabia · open to junior SOC, VAPT and pentest roles (India, Gulf or remote)
 
 I'm a cybersecurity graduate working towards my first security role. I finished an eight-month **Advanced Penetration Testing diploma at eHackify** (web, network, API and mobile VAPT, Active Directory attack chains, SOC fundamentals). Most of what I know came from building labs and breaking them — and writing down what went wrong.
 
@@ -28,7 +28,10 @@ PortSwigger Web Security Academy labs across SQL injection, XSS, CSRF and SSRF. 
 See [Write-ups](writeups.html).
 
 ## Learning now
-TryHackMe SOC Level 1 · PortSwigger Apprentice · working towards eJPT, then OSCP.
+LetsDefend SOC Analyst path · OverTheWire (Bandit) · PortSwigger Apprentice · completed picoCTF · working towards eJPT, then OSCP.
+
+## Events
+Attending **Black Hat MEA 2026** (Riyadh, December 2026).
 
 ## Contact
 salmansainudeen@gmail.com · [LinkedIn](https://www.linkedin.com/in/salmansainudeen) · [GitHub](https://github.com/salmansainudeen)
