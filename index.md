@@ -24,6 +24,9 @@ Windows Server 2019 domain with three clients. Ran Kerberoasting, AS-REP Roastin
 ### Web security
 PortSwigger Web Security Academy labs across SQL injection, XSS, CSRF and SSRF. Write-ups below as they're published.
 
+### Guardrailed AI recon agent
+An AI reconnaissance agent that can run security tools but **can't go out of scope or run anything destructive** — the policy is enforced *outside* the model (allowlist, scope file, command validation, audit log). The interesting part is the security layer that resists prompt injection. [Read the write-up →](recon-agent.html)
+
 ## Write-ups
 See [Write-ups](writeups.html).
 
